@@ -1,17 +1,5 @@
 {
  "format": "loopkey-library",
- "updated": "2026-11-20T01:10:34Z",
- "macros": [
-  {
-   "id": "femraidautoafk",
-   "name": "FemRaidAutoAfk",
-   "description": "InjuryProne,ChronicInJury,TimeTrial",
-   "author": "HeavenFr",
-   "created": "2026-11-19T21:37:24Z",
-   "updated": "2026-11-19T23:06:50Z",
-   "mouseMode": "screen",
-   "lengthMs": 145714,
-   "events": 3611
-  }
- ]
+ "updated": "2026-11-20T20:35:31Z",
+ "macros": []
 }
